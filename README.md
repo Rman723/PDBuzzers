@@ -1,2 +1,2 @@
 # PDBuzzers
-Buzzers for all the SO's
+Buzzers for all the PD's and SO's
