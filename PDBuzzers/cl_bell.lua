@@ -1,7 +1,7 @@
 local player = GetPlayerPed(-1)
 local dings = 0
 local times = 5000 --This changes the wait time between buzzes
-local radius = 0
+local radius = 0 --Radius the buzz can be heard from
 -- Mission Row PD
 Citizen.CreateThread(function()
     while true do 
