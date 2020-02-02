@@ -7,10 +7,10 @@ Change Log:
     V1.1:
     - Make the wait times a local in the top so you dont have to change each one.
     - Make the radius where the buzz can be heard a local in the top
+    - Make the audioName and audioRef a local in the top
     
 
 ToDo:
 
     -Make it so you add coords to a spot to eliminate some code.
-    -Possibly make it so you can choose what type of buzzer you want
     -Make it so you can toggle the bell to prevent people from abusing it
